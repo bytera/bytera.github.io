@@ -6,9 +6,7 @@
 
 title: Bytera Blog
 name: Bytera
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Security Blog
+description: Security Blog
 
 # Build settings
 remote_theme: amitmerchant1990/reverie
