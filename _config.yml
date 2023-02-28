@@ -46,3 +46,4 @@ plugins:
   - jekyll-seo-tag
 
 include: ['_pages']
+avatar: /images/smiley.png
